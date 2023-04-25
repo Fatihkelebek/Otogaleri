@@ -1,0 +1,11 @@
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\bin\Debug\otogaleri.exe.config
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\bin\Debug\otogaleri.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\bin\Debug\otogaleri.pdb
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\obj\Debug\otogaleri.csproj.AssemblyReference.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\obj\Debug\otogaleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\obj\Debug\otogaleri.Form1.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\obj\Debug\otogaleri.Properties.Resources.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\obj\Debug\otogaleri.csproj.GenerateResource.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\obj\Debug\otogaleri.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\obj\Debug\otogaleri.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\otogaleri\otogaleri\obj\Debug\otogaleri.pdb

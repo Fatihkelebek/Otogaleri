@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otogaleri", "otogaleri\otogaleri.csproj", "{B5B9D5E2-22EA-4497-8715-5538E9FC9EB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B9D5E2-22EA-4497-8715-5538E9FC9EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B9D5E2-22EA-4497-8715-5538E9FC9EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B9D5E2-22EA-4497-8715-5538E9FC9EB2}.Debug|x64.ActiveCfg = Debug|x64
+		{B5B9D5E2-22EA-4497-8715-5538E9FC9EB2}.Debug|x64.Build.0 = Debug|x64
+		{B5B9D5E2-22EA-4497-8715-5538E9FC9EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B9D5E2-22EA-4497-8715-5538E9FC9EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B9D5E2-22EA-4497-8715-5538E9FC9EB2}.Release|x64.ActiveCfg = Release|x64
+		{B5B9D5E2-22EA-4497-8715-5538E9FC9EB2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227702A3-6375-42AA-BB49-2C8DC99B8CB7}
+	EndGlobalSection
+EndGlobal
